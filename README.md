@@ -1,18 +1,7 @@
-# Universal_Gaming
-# Open AI 
+Keyboard or mouse controls are simulated so that screen pixels are adjusted in a way to get rewarded(the object doesn't fall)
 
-
-"We’re releasing Universe, a software platform for measuring and training an AI’s general intelligence across the world’s supply of games, websites and other applications.
-
-Universe allows an AI agent to use a computer like a human does: by looking at screen pixels and operating a virtual keyboard and mouse. We must train AI systems on the full range of tasks we expect them to solve, and Universe lets us train a single agent on any task a human can complete with a computer."
-
-This repo contains the code for AI GameBot that runs in various enviornments.
-
-# Installation
-1.To get started, you'll need to have Python 2.7 or Python 3.5.
-
-
-2.The gym open-source library and its dependencies.
+# Requirements
+The gym open-source library and its dependencies.
 
 Output:
 
