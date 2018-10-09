@@ -1,7 +1,7 @@
 Keyboard or mouse controls are simulated so that screen pixels are adjusted in a way to get rewarded(the object doesn't fall)
 
 # Requirements
-The gym open-source library and its dependencies.
+The gym open-source library and its dependencies
 
 Output:
 
